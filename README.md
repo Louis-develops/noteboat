@@ -48,7 +48,7 @@ The commands below assume a Bash terminal, such as Linux, macOS or WSL.
 Clone this repository and enter its directory:
 
 ```bash
-git clone <repository-url> noteboat
+git clone https://github.com/Louis-develops/noteboat.git noteboat
 cd noteboat
 ```
 
