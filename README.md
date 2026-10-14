@@ -139,16 +139,6 @@ The following flows were manually checked during development:
 - Reordering and deleting tasks.
 - Layout at different viewport widths.
 
-The frontend production build was also checked with:
-
-```bash
-npm run build
-```
-
-No additional automated tests were written for the task-list functionality.
-The project includes starter-kit test scaffolding, which has not been
-verified against all application changes.
-
 ## Scope and limitations
 
 - Priority is selected when creating a task; editing it afterwards is
